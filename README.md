@@ -25,7 +25,6 @@ The project includes:
 
 ## Usage
 1. Run the Streamlit app: streamlit run app/app.py
-2. 
 2. Input customer data and get premium predictions.
 
 ## Contributors
