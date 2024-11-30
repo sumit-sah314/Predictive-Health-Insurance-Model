@@ -24,7 +24,7 @@ The project includes:
 2. Install dependencies: pip install -r requirements.txt
 
 ## Usage
-1. Run the Streamlit app: streamlit run app/app.py
+1. Run the Streamlit app: https://predictive-health-insurance-model-eeut8zmebitavqessbhbh8.streamlit.app
 2. Input customer data and get premium predictions.
 
 ## Contributors
